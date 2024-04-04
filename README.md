@@ -1,7 +1,6 @@
 
-"# Fitpeo" 
-=======
-# Omnify
+# Fitpeo
+
 QA- Automation Testing- Assignment
 [https://docs.google.com/document/d/10ysAmCPWtWU5nnA1E8bTkTBu3UMyvReHWG_s9tZLm5E/edit]
 
