@@ -53,4 +53,3 @@ Update project and Make sure you have the required plugins or dependencies insta
 
 By following these steps, you should be able to successfully import a GitHub project into Eclipse.
 
->>>>>>> 8020169b9a92f4fcbcaeed66e0b719246555f323
