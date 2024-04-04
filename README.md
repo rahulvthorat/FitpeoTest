@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 "# Fitpeo" 
 =======
 # Omnify
